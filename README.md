@@ -1,5 +1,24 @@
-## Front-End
+> ### List of Contents
+> - [Front-End](#front-end)
+>   * [Indonesian](#indonesian)
+>   * [English](#english)
+> - [Back-End](#back-end)
+>   * [Indonesian](#indonesian-1)
+>   * [English](#english-1)
+> - [General](#general)
+>   * [English](#english-2)
+> - [UI/UX & Design](#ui-ux---design)
+>   * [English](#english-3)
+> - [Cybersecurity](#cybersecurity)
+>   * [English](#english-4)
+> - [Special for Backend](#special-for-backend)
+>   * [Indonesian](#indonesian-2)
 
+
+</br></br>
+
+## 1. Front-End
+---
 ### Indonesian
 
 - [Prawito Hudoro](https://www.youtube.com/c/prawitohudoro)
@@ -25,7 +44,10 @@
 - [Wrong Akram](https://www.youtube.com/c/WrongAkram)
 
 
-## Back-End
+</br></br>
+
+## 2. Back-End
+---
 
 ### Indonesian
 
@@ -39,7 +61,10 @@
 - [Mohamed Said](https://www.youtube.com/c/themsaid)
 
 
-## General
+</br></br>
+
+## 3. General
+---
 
 ### English
 - [ItsImtaz Khan](https://www.youtube.com/c/ItsImtazKhan)
@@ -50,8 +75,10 @@
 - [Ben Awad](https://www.youtube.com/user/99baddawg)
 
 
+</br></br>
 
-## UI/UX & Design
+## 4. UI/UX & Design
+---
 
 ### English
 - [Jesse Showalter](https://www.youtube.com/c/JesseShowalter)
@@ -59,18 +86,25 @@
 - [The Futur](https://www.youtube.com/c/thefuturishere)
 
 
+</br></br>
 
-## Cybersecurity
+## 5. Cybersecurity
+---
 
 ### English
 - [John Hammond](https://www.youtube.com/c/JohnHammond010)
 
 
+</br></br>
 
-## Special for Backend
+## 6. Special for Backend
+---
 
 ### Indonesian
 - [Jendela Tutorial](https://www.youtube.com/channel/UC5xEyhUr_yvqjooKIo38SJA)
+
+
+</br></br>
 
 
 > _Sharing is Caring_
