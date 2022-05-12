@@ -1,32 +1,32 @@
-> ___Table of contents___
-> - [1. Front-End](#1-front-end)
->   - [Indonesian](#indonesian)
->   - [English](#english)
-> - [2. Back-End](#2-back-end)
->   - [Indonesian](#indonesian)
->   - [English](#english)
-> - [3. General](#3-general)
->   - [English](#english)
-> - [4. UI/UX & Design](#4-uiux--design)
->   - [English](#english)
-> - [5. Cybersecurity](#5-cybersecurity)
->   - [English](#english)
-> - [6. Special for Backend](#6-special-for-backend)
->   - [Indonesian](#indonesian)
-> - [7. JavaScript](#7-javascript)
->   - [English](#english)
+**Table of contents**
+- [1. Front-End](#1-front-end)
+  - [Indonesian](#indonesian)
+  - [English](#english)
+- [2. Back-End](#2-back-end)
+  - [Indonesian](#indonesian)
+  - [English](#english)
+- [3. General](#3-general)
+  - [English](#english)
+- [4. UI/UX & Design](#4-uiux--design)
+  - [English](#english)
+- [5. Cybersecurity](#5-cybersecurity)
+  - [English](#english)
+- [6. Special for Backend](#6-special-for-backend)
+  - [Indonesian](#indonesian)
+- [7. JavaScript](#7-javascript)
+  - [English](#english)
 
 
 </br></br>
 
 ## 1. Front-End
----
-### Indonesian
+
+#### Indonesian
 
 - [Prawito Hudoro](https://www.youtube.com/c/prawitohudoro)
 - [Arrayid](https://www.youtube.com/c/ArrayID)
 
-### English
+#### English
 
 - [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
 - [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
@@ -49,13 +49,12 @@
 </br></br>
 
 ## 2. Back-End
----
 
-### Indonesian
+#### Indonesian
 
 - [Web Programming Unpas](https://www.youtube.com/c/WebProgrammingUNPAS)
 
-### English
+#### English
 
 - [Code With Dary](https://www.youtube.com/channel/UCkzGZ6ECGCBh0WK9bVUprtw)
 - [Hussain Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering)
@@ -66,9 +65,8 @@
 </br></br>
 
 ## 3. General
----
 
-### English
+#### English
 - [ItsImtaz Khan](https://www.youtube.com/c/ItsImtazKhan)
 - [Kalle Hallden ](https://www.youtube.com/c/KalleHallden)
 - [Let's Code](https://www.youtube.com/c/LetsCodeFrontEnd)
@@ -80,9 +78,8 @@
 </br></br>
 
 ## 4. UI/UX & Design
----
 
-### English
+#### English
 - [Jesse Showalter](https://www.youtube.com/c/JesseShowalter)
 - [Maex](https://www.youtube.com/c/SketchappTV)
 - [The Futur](https://www.youtube.com/c/thefuturishere)
@@ -91,27 +88,24 @@
 </br></br>
 
 ## 5. Cybersecurity
----
 
-### English
+#### English
 - [John Hammond](https://www.youtube.com/c/JohnHammond010)
 
 
 </br></br>
 
 ## 6. Special for Backend
----
 
-### Indonesian
+#### Indonesian
 - [Jendela Tutorial](https://www.youtube.com/channel/UC5xEyhUr_yvqjooKIo38SJA)
 
 
 </br></br>
 
 ## 7. JavaScript
----
 
-### English
+#### English
 - [Tim Ermilov](https://www.youtube.com/c/TimErmilov)
 
 
