@@ -1,18 +1,20 @@
-> ### List of Contents
-> - [Front-End](#front-end)
->   * [Indonesian](#indonesian)
->   * [English](#english)
-> - [Back-End](#back-end)
->   * [Indonesian](#indonesian-1)
->   * [English](#english-1)
-> - [General](#general)
->   * [English](#english-2)
-> - [UI/UX & Design](#ui-ux---design)
->   * [English](#english-3)
-> - [Cybersecurity](#cybersecurity)
->   * [English](#english-4)
-> - [Special for Backend](#special-for-backend)
->   * [Indonesian](#indonesian-2)
+> ___Table of contents___
+> - [1. Front-End](#1-front-end)
+>   - [Indonesian](#indonesian)
+>   - [English](#english)
+> - [2. Back-End](#2-back-end)
+>   - [Indonesian](#indonesian)
+>   - [English](#english)
+> - [3. General](#3-general)
+>   - [English](#english)
+> - [4. UI/UX & Design](#4-uiux--design)
+>   - [English](#english)
+> - [5. Cybersecurity](#5-cybersecurity)
+>   - [English](#english)
+> - [6. Special for Backend](#6-special-for-backend)
+>   - [Indonesian](#indonesian)
+> - [7. JavaScript](#7-javascript)
+>   - [English](#english)
 
 
 </br></br>
@@ -106,6 +108,13 @@
 
 </br></br>
 
+## 7. JavaScript
+---
 
+### English
+- [Tim Ermilov](https://www.youtube.com/c/TimErmilov)
+
+
+</br></br>
 > _Sharing is Caring_
 
